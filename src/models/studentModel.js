@@ -14,7 +14,7 @@ password:{
     required:[true,"password filed is required"]
 },
 age:{
-    type:String,
+    type:Number,
     required:[true,"age field is required"]
 },
 address:[{

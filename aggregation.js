@@ -4,7 +4,7 @@
 //syntax
 //====same result ========
 //db.collection.aggregate([]) 
-//db/collection.find({});
+//db/collection.find([{$match{}}]);
 
 //==========aggregation stage Operators===
 //  {$<stageOperator>:{} }
